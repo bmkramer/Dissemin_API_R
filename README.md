@@ -41,5 +41,5 @@ The output is a dataframe (written to a csv file) with, for each DOI, the follow
   - For some DOis, results obtained through this script are empty while Dissemin API does return results - so will need a closer look at the Dissemin API output parameters. 
 
 ##The script
-[DOI_queries_Dissemin_API.R](https://github.com/bmkramer/scihub_netherlands/blob/Dissemin_API_R/DOI_queries_Dissemin_API.R)
+[DOI_queries_Dissemin_API.R](https://github.com/bmkramer/Dissemin_API_R/blob/master/DOI_queries_Dissemin_API.R)
 
