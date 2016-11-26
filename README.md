@@ -2,7 +2,7 @@
 
 My first R script - please be kind :-) 
 
-Also modified into a script for [querying the OADOI API](https://github.com/bmkramer/scihub_netherlands/blob/OADOI_API_R/README.md)
+Also modified into a script for [querying the OADOI API](https://github.com/bmkramer/OADOI_API_R)
 
 ##Description
 This script uses the Dissemin API to get information on online availability (gold and green Open Access) of academic articles, identified by their DOI, as well as publisher policies on archiving. 
